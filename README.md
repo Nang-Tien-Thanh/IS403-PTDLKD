@@ -1,0 +1,1 @@
+Dự án thực hiện tìm hiểu và áp dụng các thuật toán học máy, học sâu như LSTM, ARIMA, RNN, SVR, GRU, HMM vào dự đoán giá cổ phiếu của 3 công ty NVIDIA, Intel, AMD. Dữ liệu được lấy từ năm 2015 đến năm 2025. 
